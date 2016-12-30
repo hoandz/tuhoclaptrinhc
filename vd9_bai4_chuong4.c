@@ -11,6 +11,7 @@ main(){
 	
 	scanf("%d%*2d%d%f%*f%f",&a,&b,&x,&y);
 	
+	
 	printf("\na=%d\nb=%d\nx=%10.3e\ny=%10.6e",a,b,x,y);
 }
 //135 467 325 4538.26 1 6782
